@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning data analysis and visualization.
 - 📫 Connect with me at:
   
-  - [Email](shreyasinharoy1997@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/shreya-sinha-roy/)
   - [Instagram](https://www.instagram.com/theshreyasinharoy/)
   - [Facebook](https://www.facebook.com/shreya.sinharoy.547) (Yes, I still use FB 😅)
