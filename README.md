@@ -1,7 +1,7 @@
 ### **👋 Hi, I am Shreya Sinha Roy**
 ---
   
-  **A Data Analyst By Passion**
+  **A curious & passionate Data Analyst**
 
   **Skills:**
   - SQL 💻
