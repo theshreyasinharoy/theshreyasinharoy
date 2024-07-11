@@ -1,14 +1,25 @@
-- 👋 Hi, I’m @theshreyasinharoy
-- 👀 I’m interested in everything about Data & Business.
-- 🌱 I’m currently learning data analysis and visualization.
-- 📫 Connect with me at:
+### **👋 Hi, I am Shreya Sinha Roy**
+---
+  
+  **A Data Analyst By Passion**
+
+  **Skills:**
+  - SQL 💻
+  - Advanced Excel 📈
+  - Power BI 📊
+  - Python 🐍
+
+ **Reach out to me at :** shreyasinharoy1997@gmail.com 📧
+
+**Connect with me:**
   
   - [LinkedIn](https://www.linkedin.com/in/shreya-sinha-roy/)
   - [Instagram](https://www.instagram.com/theshreyasinharoy/)
-  - [Facebook](https://www.facebook.com/shreya.sinharoy.547) (Yes, I still use FB 😅)
+  - [Facebook](https://www.facebook.com/shreya.sinharoy.547) 
   - [Twitter](https://x.com/SinhaRoyShreya)
-- 😄 Pronouns: She/Her
-- 😇 Hobbies: Elocution, Writing, Reading, Listening to podcasts
+    
+- 😄 **Pronouns:** She/Her
+- 😇 **Hobbies:** Elocution, Writing, Reading, Listening to podcasts
 
 
 <!---
