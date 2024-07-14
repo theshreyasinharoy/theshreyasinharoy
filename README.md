@@ -14,7 +14,6 @@
 **Connect with me:**
   
   - [LinkedIn](https://www.linkedin.com/in/shreya-sinha-roy/)
-  - [Instagram](https://www.instagram.com/theshreyasinharoy/)
   - [Facebook](https://www.facebook.com/shreya.sinharoy.547) 
   - [Twitter](https://x.com/SinhaRoyShreya)
     
