@@ -15,7 +15,7 @@
   
   - [LinkedIn](https://www.linkedin.com/in/shreya-sinha-roy/)
   - [Facebook](https://www.facebook.com/shreya.sinharoy.547) 
-  - [Twitter](https://x.com/sinharoy7991))
+  - [Twitter](https://x.com/sinharoy7991)
     
 - 😄 **Pronouns:** She/Her
 - 😇 **Hobbies:** Elocution, Writing, Reading, Listening to podcasts
