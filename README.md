@@ -1,5 +1,7 @@
 ### **👋 Hi, I am Shreya Sinha Roy**
 ---
+![Cover](https://github.com/user-attachments/assets/23157360-5a1e-4bd3-b74d-68050e5ea6bc)
+
   
   **A curious & passionate Data Analyst**
 
