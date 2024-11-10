@@ -10,7 +10,7 @@
   - Advanced Excel 📈
   - Power BI 📊
   - Python 🐍
-  - Root Cause Analysis (RCA)
+  - Root Cause Analysis (RCA) 💡
 
  **Reach out to me at :** shreyasinharoy1997@gmail.com 📧
 
